@@ -1,2 +1,2 @@
 # program4
-this is my first git hub program
+This is my first git hub program
